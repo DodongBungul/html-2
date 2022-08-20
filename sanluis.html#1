@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+<a href="#contact"target=_self>
+<img src="profile.jpeg" width="100px" height="100px"/>
+</a>
+<h3> By Isabelle Rodriguez| 1 day ago 
+<h4> Related Content
+<p>•"How to style boyfriend jeans"
+<p>•"When print is too much"
+<p>•"The overalls trend"
+<p>•"Fall's It color:Blush 
+
+
+<h1> Everyday with Isa </h1>
+<img src="image-one.jpg" width="100px" height="100px"/>
+<a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week"target=_self>
+<h1> An Insiders guide to NYFW </h1>
+</a>
+
+<p> NYFW Can be both amazingly fun & incredibly overwhelming, especially if you're never been. Luckily, I'm here to give you an insider's guide and make your first show a pleasurable experience. By taking my tips and tricks, and following your gut, you'll have an unforgettable experience!</p>
+<img src="image-two.jpeg" width="100px" height="100px"/>
+
+<h2> Getting tickets and picking the shoes </h2>
+<p> If you're lucky or connected you get an invite, sans the price tag. But i wasn't so lucky or connected my fist 2 years so im here to help you out. First plan out which shows are more important to you and make a schedule and this is a biggie: SEAT A BUDGET. If youre worrying about blowing your cash the whole time you wont have fun. Then check out prices, days and times and prioritize the designers you want to see most. Lastly purchase your tickets and get excited! </p>
+<img src="image-three.jpeg" width="100px" height="100px"/>
+
+<h2> Dressing for the shows </h2>
+<p> Always be true to your own sense of style. if you dont youll be uncomfortable the whole time and it will show. Remember NYFW is about expressing yourself and taking what the designers have chosen to express through their new lines. Also its important ti wear youre shoes youll be comfortable all day. Obviously you want to look good, but youll be on your foot all day long so be prepared </p>
+ 
+
+
+</body>
+
+<div id='contact'>
+<p> <strong>EMAIL:</strong>isa@fashionblog.com | <strong>PHONE:</strong> 915-555-1098 | <strong>ADDRESS:</strong> 371 284th st,new york NY, 10001
+</div>
+
+</html>
